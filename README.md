@@ -8,7 +8,7 @@
 <!-- Typing SVG Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+%26+Next.js+Enthusiast;Building+Modern+%26+Scalable+Web+Apps;Passionate+Problem+Solver;Tech+Explorer+%26+Continuous+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Computer+Science+%26+Tech+Student;Building+Scalable%2C+Secure+%26+Responsive+Apps;MERN+Stack+%26+Next.js+Enthusiast;Crafting+Production-Ready+Web+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -39,26 +39,35 @@
 
 ### 💫 About Me
 
+<p align="left">
+  👋 I am a passionate <b>Full-Stack Web Developer</b> and <b>Computer Science and Technology Student</b> from Bangladesh 🇧🇩, focused on building <b>scalable, responsive, secure, and production-ready web applications</b>.
+</p>
+
 ```javascript
 const jifanMahmud = {
-    code: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+    role: "Full-Stack Web Developer & CST Student",
+    location: "Bangladesh 🇧🇩",
+    coreSkills: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
     technologies: {
-        frontend: ["React.js", "Next.js", "Redux Toolkit", "TailwindCSS"],
-        backend: ["Node.js", "Express.js", "REST APIs"],
-        databases: ["MongoDB", "Mongoose", "PostgreSQL", "Prisma"],
-        tools: ["Git", "GitHub", "VS Code", "Postman", "Docker"]
+        frontend: ["React.js", "Next.js", "Redux", "Tailwind CSS", "HeroUI", "DaisyUI", "Motion"],
+        backend: ["Node.js", "Express.js", "MongoDB", "Mongoose"],
+        authAndSecurity: ["Better Auth", "JWT (JSON Web Tokens)"],
+        deployment: ["Vercel", "Netlify"],
+        tools: ["Git", "GitHub", "VS Code"]
     },
-    currentFocus: "Architecting high-performance Full Stack Web Applications",
-    passion: "Creating smooth user experiences with clean, maintainable code",
-    challenge: "I am constantly learning new tech and sharpening my problem-solving skills"
+    mission: "Building scalable, responsive, secure and production-ready web applications",
+    currentFocus: "Architecting performant MERN & Next.js web applications with modern UX",
+    challenge: "Continuously mastering modern web technologies & clean architectural patterns"
 };
 ```
 
-- 🔭 I’m currently working on modern full-stack web applications using **React, Next.js, and Node.js**.
-- 🌱 I’m currently diving deeper into **TypeScript, Docker, AWS, and Microservices**.
-- 💬 Ask me about **MERN Stack, Next.js, Authentication, State Management, and Database Modeling**.
-- ⚡ Fun Fact: **I turn coffee and creative curiosity into clean, functional code.**
-- 📫 How to reach me: **[Send an Email](mailto:your-email@example.com)** or connect with me on **[LinkedIn](https://linkedin.com/in/your-linkedin-username)**.
+- 🎓 **CST Student:** Currently studying Computer Science & Technology in Bangladesh.
+- 💻 **Full-Stack Developer:** Actively developing modern web applications with **React, Next.js, Node.js, and MongoDB**.
+- 🎨 **Modern Frontend & UI:** Crafting responsive and interactive interfaces with **Tailwind CSS, DaisyUI, HeroUI, and Motion (Framer Motion)**.
+- 🔐 **Authentication & Security:** Implementing robust auth and access control with **Better Auth and JWT**.
+- 🚀 **Scalable Backend:** Designing RESTful APIs and clean data architectures with **Express.js and Mongoose**.
+- ⚡ **Fun Fact:** I turn coffee and curiosity into clean, scalable, and secure code.
+- 📫 **Reach Me:** Feel free to connect via **[Email](mailto:your-email@example.com)** or **[LinkedIn](https://linkedin.com/in/your-linkedin-username)**.
 
 <br/>
 
@@ -71,39 +80,46 @@ const jifanMahmud = {
     <td align="left" width="25%"><b>⚡ Languages</b></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>🎨 Frontend</b></td>
+    <td align="left" width="25%"><b>🎨 Frontend & UI</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" alt="Frontend" /></a>
+      <a href="https://heroui.com" target="_blank"><img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white" height="42" alt="HeroUI" /></a>
+      <a href="https://daisyui.com" target="_blank"><img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" height="42" alt="daisyUI" /></a>
+      <a href="https://motion.dev" target="_blank"><img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="42" alt="Motion" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="25%"><b>⚙️ Backend & Database</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" /></a>
+      <a href="https://mongoosejs.com" target="_blank"><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="42" alt="Mongoose" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="25%"><b>🔐 Auth & Security</b></td>
+    <td>
+      <a href="https://better-auth.com" target="_blank"><img src="https://img.shields.io/badge/Better_Auth-121212?style=for-the-badge&logo=betterauth&logoColor=white" height="42" alt="Better Auth" /></a>
+      <a href="https://jwt.io" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="42" alt="JWT" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="25%"><b>🚀 Deployment & Hosting</b></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui" alt="Frontend" />
+        <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment & Hosting" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>⚙️ Backend & DB</b></td>
+    <td align="left" width="25%"><b>🧰 Tools & Version Control</b></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" alt="Backend & Database" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="25%"><b>🚀 DevOps & Hosting</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,aws" alt="DevOps & Hosting" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="25%"><b>🧰 Tools & Platforms</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
       </a>
     </td>
   </tr>
