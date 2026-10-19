@@ -130,25 +130,55 @@ const jifanMahmud = {
 
 ---
 
-### 📌 Pinned Project
+### 📌 Featured / Pinned Projects
 
 <table width="100%">
   <tr>
-    <td>
-      <h3>Banglar Bagh</h3>
-      <a href="https://github.com/Jifan-Mahmud" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /></a>
-      <a href="https://github.com/Jifan-Mahmud" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></a>
-      <br/><br/>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jifan-Mahmud/Programming-Hero-Assignment-10-frontend" style="text-decoration: none; color: inherit;">🚀 Programming Hero Assignment 10</a></h3>
       <p>
-        A comprehensive donation management platform featuring an interactive admin dashboard, secure dynamic database integration, and automated workflow engine for handling charity contributions efficiently.
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/HeroUI-000000?style=flat-square&logo=heroui&logoColor=white" alt="HeroUI" />
+        <img src="https://img.shields.io/badge/Better_Auth-121212?style=flat-square&logo=betterauth&logoColor=white" alt="Better Auth" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+        <img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Motion" />
       </p>
-      <a href="https://github.com/Jifan-Mahmud" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-⚡-00A4EF?style=flat-square" alt="Live Demo" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/Jifan-Mahmud" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-💻-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
-      </a>
+      <p>
+        A modern full-stack web application built with Next.js App Router, featuring secure authentication via Better Auth, smooth Framer Motion animations, interactive charts, Stripe payment gateway, and MongoDB database integration.
+      </p>
+      <p>
+        <a href="https://github.com/Jifan-Mahmud/Programming-Hero-Assignment-10-frontend" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-⚡-00A4EF?style=flat-square" alt="Live Demo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Jifan-Mahmud/Programming-Hero-Assignment-10-frontend" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-💻-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jifan-Mahmud/Programming-Hero-Assignment-9-frontend-main" style="text-decoration: none; color: inherit;">⚡ Programming Hero Assignment 9</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/HeroUI-000000?style=flat-square&logo=heroui&logoColor=white" alt="HeroUI" />
+        <img src="https://img.shields.io/badge/Better_Auth-121212?style=flat-square&logo=betterauth&logoColor=white" alt="Better Auth" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Motion" />
+      </p>
+      <p>
+        A responsive full-stack platform leveraging Next.js, HeroUI modern design components, Google OAuth & Better Auth security, JWT authentication, and interactive UI micro-animations.
+      </p>
+      <p>
+        <a href="https://github.com/Jifan-Mahmud/Programming-Hero-Assignment-9-frontend-main" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-⚡-00A4EF?style=flat-square" alt="Live Demo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Jifan-Mahmud/Programming-Hero-Assignment-9-frontend-main" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-💻-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
