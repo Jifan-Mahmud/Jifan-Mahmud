@@ -20,16 +20,16 @@
     <img src="https://komarev.com/ghpvc/?username=Jifan-Mahmud&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/b-m-jifan-mahmud-37b376326" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:jifanmahmud@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://github.com/Jifan-Mahmud" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -68,7 +68,7 @@ const jifanMahmud = {
 - 🚀 **Scalable Backend:** Designing RESTful APIs and clean data architectures with **Express.js and Mongoose**.
 - 🛠️ **Tools & AI Editors:** Developing and supercharging productivity with **VS Code, Cursor, and Google Antigravity**.
 - ⚡ **Fun Fact:** I turn coffee and curiosity into clean, scalable, and secure code.
-- 📫 **Reach Me:** Feel free to connect via **[Email](mailto:your-email@example.com)** or **[LinkedIn](https://linkedin.com/in/your-linkedin-username)**.
+- 📫 **Reach Me:** Feel free to connect via **[Email](mailto:jifanmahmud@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/b-m-jifan-mahmud-37b376326)**.
 
 <br/>
 
@@ -158,6 +158,30 @@ const jifanMahmud = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jifan-Mahmud&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+---
+
+### 🤝 Let's Connect & Collaborate!
+
+<p align="left">
+  As a <b>Full-Stack Web Developer</b>, I am always open to discussing new opportunities, full-stack projects, freelance work, open-source collaborations, or innovative tech ideas. Feel free to reach out to me anytime!
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/b-m-jifan-mahmud-37b376326" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-B.M.%20Jifan%20Mahmud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jifanmahmud@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jifanmahmud%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Jifan-Mahmud" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Jifan--Mahmud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 <br/>
