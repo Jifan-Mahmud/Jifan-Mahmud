@@ -53,7 +53,7 @@ const jifanMahmud = {
         backend: ["Node.js", "Express.js", "MongoDB", "Mongoose"],
         authAndSecurity: ["Better Auth", "JWT (JSON Web Tokens)"],
         deployment: ["Vercel", "Netlify"],
-        tools: ["Git", "GitHub", "VS Code"]
+        toolsAndIDEs: ["Git", "GitHub", "VS Code", "Cursor", "Google Antigravity"]
     },
     mission: "Building scalable, responsive, secure and production-ready web applications",
     currentFocus: "Architecting performant MERN & Next.js web applications with modern UX",
@@ -66,6 +66,7 @@ const jifanMahmud = {
 - 🎨 **Modern Frontend & UI:** Crafting responsive and interactive interfaces with **Tailwind CSS, DaisyUI, HeroUI, and Motion (Framer Motion)**.
 - 🔐 **Authentication & Security:** Implementing robust auth and access control with **Better Auth and JWT**.
 - 🚀 **Scalable Backend:** Designing RESTful APIs and clean data architectures with **Express.js and Mongoose**.
+- 🛠️ **Tools & AI Editors:** Developing and supercharging productivity with **VS Code, Cursor, and Google Antigravity**.
 - ⚡ **Fun Fact:** I turn coffee and curiosity into clean, scalable, and secure code.
 - 📫 **Reach Me:** Feel free to connect via **[Email](mailto:your-email@example.com)** or **[LinkedIn](https://linkedin.com/in/your-linkedin-username)**.
 
@@ -88,23 +89,23 @@ const jifanMahmud = {
     <td align="left" width="25%"><b>🎨 Frontend & UI</b></td>
     <td>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" alt="Frontend" /></a>
-      <a href="https://heroui.com" target="_blank"><img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white" height="42" alt="HeroUI" /></a>
-      <a href="https://daisyui.com" target="_blank"><img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" height="42" alt="daisyUI" /></a>
-      <a href="https://motion.dev" target="_blank"><img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="42" alt="Motion" /></a>
+      <a href="https://heroui.com" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/heroui.svg" width="48" height="48" alt="HeroUI" /></a>
+      <a href="https://daisyui.com" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/daisyui.svg" width="48" height="48" alt="daisyUI" /></a>
+      <a href="https://motion.dev" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/motion.svg" width="48" height="48" alt="Motion" /></a>
     </td>
   </tr>
   <tr>
     <td align="left" width="25%"><b>⚙️ Backend & Database</b></td>
     <td>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" /></a>
-      <a href="https://mongoosejs.com" target="_blank"><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="42" alt="Mongoose" /></a>
+      <a href="https://mongoosejs.com" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/mongoose.svg" width="48" height="48" alt="Mongoose" /></a>
     </td>
   </tr>
   <tr>
     <td align="left" width="25%"><b>🔐 Auth & Security</b></td>
     <td>
-      <a href="https://better-auth.com" target="_blank"><img src="https://img.shields.io/badge/Better_Auth-121212?style=for-the-badge&logo=betterauth&logoColor=white" height="42" alt="Better Auth" /></a>
-      <a href="https://jwt.io" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="42" alt="JWT" /></a>
+      <a href="https://better-auth.com" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/betterauth.svg" width="48" height="48" alt="Better Auth" /></a>
+      <a href="https://jwt.io" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/jwt.svg" width="48" height="48" alt="JWT" /></a>
     </td>
   </tr>
   <tr>
@@ -116,11 +117,11 @@ const jifanMahmud = {
     </td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>🧰 Tools & Version Control</b></td>
+    <td align="left" width="25%"><b>🧰 Tools & AI Editors</b></td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
-      </a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" /></a>
+      <a href="https://cursor.com" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/cursor.svg" width="48" height="48" alt="Cursor" /></a>
+      <a href="https://github.com/Jifan-Mahmud" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/antigravity.svg" width="48" height="48" alt="Google Antigravity" /></a>
     </td>
   </tr>
 </table>
