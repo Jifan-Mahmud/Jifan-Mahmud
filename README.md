@@ -130,37 +130,25 @@ const jifanMahmud = {
 
 ---
 
-### 🚀 Featured Projects & Portfolio
+### 📌 Pinned Project
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌟 Full-Stack Web Application (MERN)</h3>
-      <p>A full-featured full-stack web application with secure authentication, RESTful APIs, dashboard management, and clean user experience.</p>
+    <td>
+      <h3>Banglar Bagh</h3>
+      <a href="https://github.com/Jifan-Mahmud" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /></a>
+      <a href="https://github.com/Jifan-Mahmud" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></a>
+      <br/><br/>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        A comprehensive donation management platform featuring an interactive admin dashboard, secure dynamic database integration, and automated workflow engine for handling charity contributions efficiently.
       </p>
-      <p>
-        <a href="https://github.com/Jifan-Mahmud" target="_blank"><b>🔗 Live Demo</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/Jifan-Mahmud" target="_blank"><b>💻 Source Code</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Next.js & Modern UI Application</h3>
-      <p>High-performance modern web app built with Next.js App Router, Tailwind CSS, HeroUI, and responsive interactive animations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Motion" />
-      </p>
-      <p>
-        <a href="https://github.com/Jifan-Mahmud" target="_blank"><b>🔗 Live Demo</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/Jifan-Mahmud" target="_blank"><b>💻 Source Code</b></a>
-      </p>
+      <a href="https://github.com/Jifan-Mahmud" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-⚡-00A4EF?style=flat-square" alt="Live Demo" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/Jifan-Mahmud" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-💻-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+      </a>
     </td>
   </tr>
 </table>
