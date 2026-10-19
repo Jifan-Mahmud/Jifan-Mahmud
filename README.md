@@ -130,34 +130,87 @@ const jifanMahmud = {
 
 ---
 
-### 📊 GitHub Statistics & Analysis
+### 🚀 Featured Projects & Portfolio
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jifan-Mahmud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Jifan's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jifan-Mahmud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="98%" src="https://streak-stats.demolab.com/?user=Jifan-Mahmud&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌟 Full-Stack Web Application (MERN)</h3>
+      <p>A full-featured full-stack web application with secure authentication, RESTful APIs, dashboard management, and clean user experience.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <p>
+        <a href="https://github.com/Jifan-Mahmud" target="_blank"><b>🔗 Live Demo</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/Jifan-Mahmud" target="_blank"><b>💻 Source Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Next.js & Modern UI Application</h3>
+      <p>High-performance modern web app built with Next.js App Router, Tailwind CSS, HeroUI, and responsive interactive animations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Motion" />
+      </p>
+      <p>
+        <a href="https://github.com/Jifan-Mahmud" target="_blank"><b>🔗 Live Demo</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/Jifan-Mahmud" target="_blank"><b>💻 Source Code</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ---
 
-### 🏆 GitHub Trophies
+### ⚡ What I Bring to the Table
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend Engineering</h4>
+      <ul>
+        <li>Responsive, mobile-first design with <b>Tailwind CSS, HeroUI & DaisyUI</b></li>
+        <li>Smooth animations and micro-interactions with <b>Motion</b></li>
+        <li>Component-driven architecture using <b>React.js & Next.js</b></li>
+        <li>Predictable global state management using <b>Redux Toolkit</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Architecture</h4>
+      <ul>
+        <li>Scalable, modular RESTful APIs with <b>Node.js & Express.js</b></li>
+        <li>Secure authentication & session handling with <b>Better Auth & JWT</b></li>
+        <li>Data modeling, indexing, and validation with <b>MongoDB & Mongoose</b></li>
+        <li>Reliable continuous deployment with <b>Vercel & Netlify</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 🔥 Coding Focus & Consistency
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jifan-Mahmud&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jifan-Mahmud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+      </td>
+      <td align="center" width="50%">
+        <img width="100%" src="https://streak-stats.demolab.com/?user=Jifan-Mahmud&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
