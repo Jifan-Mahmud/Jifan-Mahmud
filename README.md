@@ -133,7 +133,36 @@ const jifanMahmud = {
 ### 📌 Featured / Pinned Projects
 
 <table width="100%">
-  <!-- Row 1: Assignment 10 & Assignment 9 -->
+  <!-- Flagship Pinned Project: AnyThing -->
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h3><a href="https://github.com/Jifan-Mahmud/AnyThing" style="text-decoration: none; color: inherit;">🌟 AnyThing — Modern Full-Stack Social Media Platform</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/HeroUI-000000?style=flat-square&logo=heroui&logoColor=white" alt="HeroUI" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
+        <img src="https://img.shields.io/badge/Better_Auth-121212?style=flat-square&logo=betterauth&logoColor=white" alt="Better Auth" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+        <img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Motion" />
+      </p>
+      <p>
+        An Instagram-inspired full-stack social media platform featuring real-time connectivity, post & reels sharing, instant messaging & video calling via Socket.io, Cloudinary media processing, and robust Better Auth authentication.
+      </p>
+      <p>
+        <a href="https://github.com/Jifan-Mahmud/AnyThing" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-⚡-00A4EF?style=flat-square" alt="Live Demo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Jifan-Mahmud/AnyThing" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-💻-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 2: Assignment 10 & Assignment 9 -->
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Jifan-Mahmud/Programming-Hero-Assignment-10-frontend" style="text-decoration: none; color: inherit;">🚀 Assignment 10 (Full-Stack Next.js)</a></h3>
@@ -182,7 +211,6 @@ const jifanMahmud = {
       </p>
     </td>
   </tr>
-
 </table>
 
 <br/>
