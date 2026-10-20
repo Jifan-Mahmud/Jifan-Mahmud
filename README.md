@@ -55,6 +55,7 @@ const jifanMahmud = {
         deployment: ["Vercel", "Netlify"],
         toolsAndIDEs: ["Git", "GitHub", "VS Code", "Cursor", "Google Antigravity"]
     },
+    currentlyLearning: ["TypeScript", "Mongoose"],
     mission: "Building scalable, responsive, secure and production-ready web applications",
     currentFocus: "Architecting performant MERN & Next.js web applications with modern UX",
     challenge: "Continuously mastering modern web technologies & clean architectural patterns"
@@ -63,6 +64,7 @@ const jifanMahmud = {
 
 - 🎓 **CST Student:** Currently studying Computer Science & Technology in Bangladesh.
 - 💻 **Full-Stack Developer:** Actively developing modern web applications with **React, Next.js, Node.js, and MongoDB**.
+- 🌱 **Currently Learning:** Diving deeper into **TypeScript & Mongoose** for type-safe backend & database modeling.
 - 🎨 **Modern Frontend & UI:** Crafting responsive and interactive interfaces with **Tailwind CSS, DaisyUI, HeroUI, and Motion (Framer Motion)**.
 - 🔐 **Authentication & Security:** Implementing robust auth and access control with **Better Auth and JWT**.
 - 🚀 **Scalable Backend:** Designing RESTful APIs and clean data architectures with **Express.js and Mongoose**.
