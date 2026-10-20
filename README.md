@@ -153,7 +153,7 @@ const jifanMahmud = {
         An Instagram-inspired full-stack social media platform featuring real-time connectivity, post & reels sharing, instant messaging & video calling via Socket.io, Cloudinary media processing, and robust Better Auth authentication.
       </p>
       <p>
-        <a href="https://github.com/Jifan-Mahmud/AnyThing" target="_blank">
+        <a href="https://any-thing-three.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-⚡-00A4EF?style=flat-square" alt="Live Demo" />
         </a>
         &nbsp;
@@ -180,7 +180,7 @@ const jifanMahmud = {
         Full-stack web application built with Next.js App Router, featuring secure Better Auth, smooth Framer Motion animations, interactive charts, Stripe payment gateway, and MongoDB database integration.
       </p>
       <p>
-        <a href="https://github.com/Jifan-Mahmud/Programming-Hero-Assignment-10-frontend" target="_blank">
+        <a href="https://assignment-10-frontend-amber.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-⚡-00A4EF?style=flat-square" alt="Live Demo" />
         </a>
         &nbsp;
@@ -203,7 +203,7 @@ const jifanMahmud = {
         Responsive full-stack platform leveraging Next.js, HeroUI modern design components, Google OAuth & Better Auth security, JWT authentication, and interactive UI micro-animations.
       </p>
       <p>
-        <a href="https://github.com/Jifan-Mahmud/Programming-Hero-Assignment-9-frontend-main" target="_blank">
+        <a href="https://assignment-9-frontend-gamma.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-⚡-00A4EF?style=flat-square" alt="Live Demo" />
         </a>
         &nbsp;
