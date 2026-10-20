@@ -7,9 +7,7 @@
 
 <!-- Typing SVG Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Computer+Science+%26+Tech+Student;Building+Scalable%2C+Secure+%26+Responsive+Apps;MERN+Stack+%26+Next.js+Enthusiast;Crafting+Production-Ready+Web+Solutions" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Computer+Science+%26+Tech+Student;Building+Scalable%2C+Secure+%26+Responsive+Apps;MERN+Stack+%26+Next.js+Enthusiast;Crafting+Production-Ready+Web+Solutions" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -65,12 +63,7 @@ const jifanMahmud = {
 - 🎓 **CST Student:** Currently studying Computer Science & Technology in Bangladesh.
 - 💻 **Full-Stack Developer:** Actively developing modern web applications with **React, Next.js, Node.js, and MongoDB**.
 - 🌱 **Currently Learning:** Diving deeper into **TypeScript & Mongoose** for type-safe backend & database modeling.
-- 🎨 **Modern Frontend & UI:** Crafting responsive and interactive interfaces with **Tailwind CSS, DaisyUI, HeroUI, and Motion (Framer Motion)**.
-- 🔐 **Authentication & Security:** Implementing robust auth and access control with **Better Auth and JWT**.
-- 🚀 **Scalable Backend:** Designing RESTful APIs and clean data architectures with **Express.js and Mongoose**.
-- 🛠️ **Tools & AI Editors:** Developing and supercharging productivity with **VS Code, Cursor, and Google Antigravity**.
 - ⚡ **Fun Fact:** I turn coffee and curiosity into clean, scalable, and secure code.
-- 📫 **Reach Me:** Feel free to connect via **[Email](mailto:jifanmahmud@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/b-m-jifan-mahmud-37b376326)**.
 
 <br/>
 
@@ -82,48 +75,44 @@ const jifanMahmud = {
   <tr>
     <td align="left" width="25%"><b>⚡ Languages</b></td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
     </td>
   </tr>
   <tr>
     <td align="left" width="25%"><b>🎨 Frontend & UI</b></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" alt="Frontend" /></a>
-      <a href="https://heroui.com" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/heroui.svg" width="48" height="48" alt="HeroUI" /></a>
-      <a href="https://daisyui.com" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/daisyui.svg" width="48" height="48" alt="daisyUI" /></a>
-      <a href="https://motion.dev" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/motion.svg" width="48" height="48" alt="Motion" /></a>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" alt="Frontend" />
+      <img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/heroui.svg" width="48" height="48" alt="HeroUI" />
+      <img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/daisyui.svg" width="48" height="48" alt="daisyUI" />
+      <img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/motion.svg" width="48" height="48" alt="Motion" />
     </td>
   </tr>
   <tr>
     <td align="left" width="25%"><b>⚙️ Backend & Database</b></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" /></a>
-      <a href="https://mongoosejs.com" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/mongoose.svg" width="48" height="48" alt="Mongoose" /></a>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" />
+      <img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/mongoose.svg" width="48" height="48" alt="Mongoose" />
     </td>
   </tr>
   <tr>
     <td align="left" width="25%"><b>🔐 Auth & Security</b></td>
     <td>
-      <a href="https://better-auth.com" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/betterauth.svg" width="48" height="48" alt="Better Auth" /></a>
-      <a href="https://jwt.io" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/jwt.svg" width="48" height="48" alt="JWT" /></a>
+      <img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/betterauth.svg" width="48" height="48" alt="Better Auth" />
+      <img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/jwt.svg" width="48" height="48" alt="JWT" />
     </td>
   </tr>
   <tr>
     <td align="left" width="25%"><b>🚀 Deployment & Hosting</b></td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment & Hosting" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment & Hosting" />
     </td>
   </tr>
   <tr>
     <td align="left" width="25%"><b>🧰 Tools & AI Editors</b></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" /></a>
-      <a href="https://cursor.com" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/cursor.svg" width="48" height="48" alt="Cursor" /></a>
-      <a href="https://github.com/Jifan-Mahmud" target="_blank"><img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/antigravity.svg" width="48" height="48" alt="Google Antigravity" /></a>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+      <img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/cursor.svg" width="48" height="48" alt="Cursor" />
+      <img src="https://raw.githubusercontent.com/Jifan-Mahmud/Jifan-Mahmud/main/icons/antigravity.svg" width="48" height="48" alt="Google Antigravity" />
     </td>
   </tr>
 </table>
