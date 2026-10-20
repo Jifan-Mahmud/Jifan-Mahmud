@@ -17,7 +17,7 @@
 <!-- Social Badges & Profile Views -->
 <div align="center">
   <a href="https://github.com/Jifan-Mahmud">
-    <img src="https://komarev.com/ghpvc/?username=Jifan-Mahmud&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+    <img src="https://hits.sh/github.com/Jifan-Mahmud.svg?style=for-the-badge&label=Profile%20Views&color=0ea5e9&labelColor=181717" alt="Profile Views" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/b-m-jifan-mahmud-37b376326" target="_blank">
